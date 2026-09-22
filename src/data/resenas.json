@@ -1,0 +1,1507 @@
+[
+  {
+    "id": "r093",
+    "proveedorId": "suministros-cumbres",
+    "productoId": "p052",
+    "empresa": "Planta de ensamble de tarjetas electrónicas (SMT)",
+    "fecha": "2026-09-09",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Medidas exactas",
+    "texto": "Las cajas llegaron exactamente a las medidas del plano. Ajustan perfecto con nuestros interiores."
+  },
+  {
+    "id": "r058",
+    "proveedorId": "empaques-sol-del-norte",
+    "productoId": "p033",
+    "empresa": "Fabricante de motores eléctricos",
+    "fecha": "2026-08-31",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 2,
+      "puntualidad": 4,
+      "trato": 3,
+      "cumplimiento": 2
+    },
+    "titulo": "Película que se rompe",
+    "texto": "La película stretch se rompía al estirarla. Parece de calibre menor al indicado."
+  },
+  {
+    "id": "r035",
+    "proveedorId": "metales-cerro-bola",
+    "productoId": "p019",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2026-08-16",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Muy puntuales",
+    "texto": "Programamos entregas semanales y no han fallado una sola vez en los últimos tres meses."
+  },
+  {
+    "id": "r053",
+    "proveedorId": "cartonajes-duna-blanca",
+    "productoId": "p029",
+    "empresa": "Maquiladora del sector aeroespacial",
+    "fecha": "2026-08-13",
+    "calificacion": 4,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 3,
+      "trato": 3,
+      "cumplimiento": 4
+    },
+    "titulo": "Bien, con tiempos ajustados",
+    "texto": "Las cajas están bien, pero siempre llegan justo el día límite. No dejan margen."
+  },
+  {
+    "id": "r030",
+    "proveedorId": "metales-cerro-bola",
+    "productoId": "p020",
+    "empresa": "Maquiladora del sector aeroespacial",
+    "fecha": "2026-08-10",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Muy buen maquinado",
+    "texto": "El aluminio maquina limpio y sin inclusiones. Los fixtures quedaron perfectos."
+  },
+  {
+    "id": "r084",
+    "proveedorId": "insumos-altavista",
+    "productoId": "p051",
+    "empresa": "Maquiladora de equipo de telecomunicaciones",
+    "fecha": "2026-08-05",
+    "calificacion": 1,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 1,
+      "trato": 2,
+      "cumplimiento": 1
+    },
+    "titulo": "Incumplieron la fecha dos veces",
+    "texto": "Reprogramaron la entrega en dos ocasiones sin justificación clara. Tuvimos que comprar de emergencia a otro proveedor."
+  },
+  {
+    "id": "r087",
+    "proveedorId": "insumos-altavista",
+    "productoId": "p049",
+    "empresa": "Maquiladora de equipo de telecomunicaciones",
+    "fecha": "2026-08-04",
+    "calificacion": 1,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 1,
+      "trato": 2,
+      "cumplimiento": 1
+    },
+    "titulo": "Entrega incompleta y sin aviso",
+    "texto": "Llegó la mitad del pedido y nadie nos avisó. El resto nunca llegó y tuvimos que cancelar."
+  },
+  {
+    "id": "r001",
+    "proveedorId": "polimeros-del-bravo",
+    "productoId": "p003",
+    "empresa": "Planta de ensamble de tarjetas electrónicas (SMT)",
+    "fecha": "2026-07-15",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 4
+    },
+    "titulo": "Buen soporte técnico",
+    "texto": "Nos ayudaron a ajustar temperaturas de secado y bajó la cantidad de piezas con rechupes."
+  },
+  {
+    "id": "r091",
+    "proveedorId": "suministros-cumbres",
+    "productoId": "p053",
+    "empresa": "Planta de moldeo por inyección",
+    "fecha": "2026-07-12",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Entrega en planta al día siguiente",
+    "texto": "Pedimos por la tarde y al otro día a primera hora teníamos las tarimas en recibo."
+  },
+  {
+    "id": "r002",
+    "proveedorId": "polimeros-del-bravo",
+    "productoId": "p004",
+    "empresa": "Ensambladora de electrónica de consumo",
+    "fecha": "2026-07-09",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Proveedor confiable",
+    "texto": "Llevamos varios pedidos y todos han llegado completos y en la fecha acordada. La cotización se resolvió el mismo día."
+  },
+  {
+    "id": "r080",
+    "proveedorId": "solventes-rio-seco",
+    "productoId": "p047",
+    "empresa": "Planta de dispositivos médicos",
+    "fecha": "2026-07-07",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 2,
+      "puntualidad": 3,
+      "trato": 1,
+      "cumplimiento": 2
+    },
+    "titulo": "Envases con fuga",
+    "texto": "Dos envases llegaron con fuga. Además, el chofer se negó a esperar a que levantáramos el reporte."
+  },
+  {
+    "id": "r086",
+    "proveedorId": "insumos-altavista",
+    "productoId": "p049",
+    "empresa": "Planta de moldeo por inyección",
+    "fecha": "2026-06-30",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Pureza verificada",
+    "texto": "Enviamos una muestra a laboratorio y la pureza coincidió con el certificado de análisis."
+  },
+  {
+    "id": "r019",
+    "proveedorId": "plastinorte-samalayuca",
+    "productoId": "p011",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2026-06-18",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 2,
+      "puntualidad": 3,
+      "trato": 3,
+      "cumplimiento": 2
+    },
+    "titulo": "Humedad excesiva",
+    "texto": "El molido llegó húmedo y con finos. Aun con secado, las piezas salieron con marcas de flujo."
+  },
+  {
+    "id": "r060",
+    "proveedorId": "empaques-sol-del-norte",
+    "productoId": "p036",
+    "empresa": "Ensambladora de electrónica de consumo",
+    "fecha": "2026-06-14",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Excelente experiencia",
+    "texto": "Desde la cotización hasta la entrega todo fue claro. El material llegó bien empacado y sin daños."
+  },
+  {
+    "id": "r048",
+    "proveedorId": "cartonajes-duna-blanca",
+    "productoId": "p029",
+    "empresa": "Maquiladora de equipo de telecomunicaciones",
+    "fecha": "2026-06-02",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Cajas resistentes",
+    "texto": "Las cajas aguantan estiba de cinco niveles sin deformarse. Pasaron nuestra prueba de caída sin problema."
+  },
+  {
+    "id": "r076",
+    "proveedorId": "solventes-rio-seco",
+    "productoId": "p046",
+    "empresa": "Planta de dispositivos médicos",
+    "fecha": "2026-05-20",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 4,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Precio bajo, poca información técnica",
+    "texto": "El precio es atractivo, pero no pudieron darnos la ficha técnica completa."
+  },
+  {
+    "id": "r090",
+    "proveedorId": "suministros-cumbres",
+    "productoId": "p055",
+    "empresa": "Planta de ensamble de tarjetas electrónicas (SMT)",
+    "fecha": "2026-05-20",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Entregas bien identificadas",
+    "texto": "Cada tarima llega etiquetada con número de lote y orden de compra. Recibo lo agradece."
+  },
+  {
+    "id": "r026",
+    "proveedorId": "aceros-paso-grande",
+    "productoId": "p013",
+    "empresa": "Ensambladora de electrónica de consumo",
+    "fecha": "2026-05-16",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 4
+    },
+    "titulo": "Lámina plana y limpia",
+    "texto": "La lámina llegó sin ondulaciones ni oxidación. Buen aceitado para almacenamiento."
+  },
+  {
+    "id": "r029",
+    "proveedorId": "metales-cerro-bola",
+    "productoId": "p018",
+    "empresa": "Fabricante de motores eléctricos",
+    "fecha": "2026-05-14",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 2,
+      "trato": 4,
+      "cumplimiento": 3
+    },
+    "titulo": "Tiempos largos para aleaciones especiales",
+    "texto": "Para acero común responden rápido; para latón e inoxidable el tiempo de entrega se alarga."
+  },
+  {
+    "id": "r007",
+    "proveedorId": "polimeros-del-bravo",
+    "productoId": "p003",
+    "empresa": "Planta de ensamble de tarjetas electrónicas (SMT)",
+    "fecha": "2026-05-01",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 1,
+      "puntualidad": 3,
+      "trato": 2,
+      "cumplimiento": 2
+    },
+    "titulo": "Contaminación en el pellet",
+    "texto": "Encontramos material de otro color mezclado en los sacos. Generó scrap en una corrida completa."
+  },
+  {
+    "id": "r064",
+    "proveedorId": "corrugados-valle-seco",
+    "productoId": "p039",
+    "empresa": "Planta de estampado metálico",
+    "fecha": "2026-04-25",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 4,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Cumple para uso interno",
+    "texto": "Para manejo dentro de planta funcionan; para exportación preferimos algo más resistente."
+  },
+  {
+    "id": "r059",
+    "proveedorId": "empaques-sol-del-norte",
+    "productoId": "p034",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2026-04-23",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Bolsas ESD con certificado",
+    "texto": "Las bolsas antiestáticas cumplen la resistencia superficial y enviaron reporte de pruebas."
+  },
+  {
+    "id": "r075",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "productoId": "p041",
+    "empresa": "Planta de dispositivos médicos",
+    "fecha": "2026-04-14",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Pureza verificada",
+    "texto": "Enviamos una muestra a laboratorio y la pureza coincidió con el certificado de análisis."
+  },
+  {
+    "id": "r016",
+    "proveedorId": "plastinorte-samalayuca",
+    "productoId": "p009",
+    "empresa": "Planta de estampado metálico",
+    "fecha": "2026-03-28",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 1,
+      "puntualidad": 3,
+      "trato": 3,
+      "cumplimiento": 2
+    },
+    "titulo": "Material fuera de especificación",
+    "texto": "El lote llegó con un índice de fluidez muy por encima de lo indicado en la ficha. Se generaron rebabas y tuvimos que devolver 2 toneladas."
+  },
+  {
+    "id": "r049",
+    "proveedorId": "cartonajes-duna-blanca",
+    "productoId": "p029",
+    "empresa": "Fabricante de muebles de oficina",
+    "fecha": "2026-03-25",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Medidas exactas",
+    "texto": "Las cajas llegaron exactamente a las medidas del plano. Ajustan perfecto con nuestros interiores."
+  },
+  {
+    "id": "r065",
+    "proveedorId": "corrugados-valle-seco",
+    "productoId": "p038",
+    "empresa": "Planta de ensamble de tarjetas electrónicas (SMT)",
+    "fecha": "2026-03-18",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Excelente calidad de corrugado",
+    "texto": "El cartón no se deslamina y los dobleces quedan limpios. Se nota el control de calidad."
+  },
+  {
+    "id": "r008",
+    "proveedorId": "resinas-medanos",
+    "productoId": "p005",
+    "empresa": "Fabricante de componentes eléctricos",
+    "fecha": "2026-03-16",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 4
+    },
+    "titulo": "Flexibles con el volumen",
+    "texto": "Aceptaron dividir el pedido en entregas semanales sin cambiar el precio por volumen."
+  },
+  {
+    "id": "r081",
+    "proveedorId": "solventes-rio-seco",
+    "productoId": "p046",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2026-03-14",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 3,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Producto bien, logística regular",
+    "texto": "El químico cumple, pero el transporte llegó sin la documentación de materiales peligrosos completa."
+  },
+  {
+    "id": "r036",
+    "proveedorId": "alambrera-tres-lomas",
+    "productoId": "p022",
+    "empresa": "Maquiladora de equipo de climatización",
+    "fecha": "2026-02-21",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 1,
+      "puntualidad": 3,
+      "trato": 2,
+      "cumplimiento": 2
+    },
+    "titulo": "Diámetro fuera de tolerancia",
+    "texto": "Medimos el alambre y estaba 0.08 mm por debajo del calibre cotizado. Se atoró en la máquina de formado y perdimos un turno."
+  },
+  {
+    "id": "r068",
+    "proveedorId": "corrugados-valle-seco",
+    "productoId": "p037",
+    "empresa": "Ensambladora de electrónica de consumo",
+    "fecha": "2026-02-17",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 4
+    },
+    "titulo": "Nos sacaron de un apuro",
+    "texto": "Tuvimos un paro de línea por falta de material y lograron entregar en menos de 48 horas. Muy recomendable para urgencias."
+  },
+  {
+    "id": "r092",
+    "proveedorId": "suministros-cumbres",
+    "productoId": "p053",
+    "empresa": "Planta de dispositivos médicos",
+    "fecha": "2026-01-25",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Buen seguimiento",
+    "texto": "El ejecutivo dio seguimiento puntual a través de la plataforma y avisó con anticipación de un cambio en el transporte. Sin sorpresas."
+  },
+  {
+    "id": "r077",
+    "proveedorId": "solventes-rio-seco",
+    "productoId": "p046",
+    "empresa": "Planta de dispositivos médicos",
+    "fecha": "2026-01-18",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Cumplen con la cadena de frío",
+    "texto": "La pasta para soldar llegó refrigerada y con indicador de temperatura. Muy profesional."
+  },
+  {
+    "id": "r052",
+    "proveedorId": "cartonajes-duna-blanca",
+    "productoId": "p030",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2026-01-16",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Precio competitivo por volumen",
+    "texto": "El descuento por volumen fue real y la calidad se mantuvo en pedidos grandes."
+  },
+  {
+    "id": "r083",
+    "proveedorId": "insumos-altavista",
+    "productoId": "p049",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2026-01-11",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 1,
+      "trato": 2,
+      "cumplimiento": 2
+    },
+    "titulo": "Retraso de dos semanas",
+    "texto": "Nos confirmaron entrega en 5 días y el material llegó 15 días después. No avisaron del retraso hasta que preguntamos varias veces."
+  },
+  {
+    "id": "r011",
+    "proveedorId": "resinas-medanos",
+    "productoId": "p008",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2026-01-10",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 4,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Bien, pero con variación de lote",
+    "texto": "Un lote salió con fluidez en el límite superior y tuvimos que ajustar parámetros. Los demás, sin problema."
+  },
+  {
+    "id": "r038",
+    "proveedorId": "alambrera-tres-lomas",
+    "productoId": "p021",
+    "empresa": "Planta de ensamble de tableros de control",
+    "fecha": "2026-01-09",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 3,
+      "trato": 4,
+      "cumplimiento": 3
+    },
+    "titulo": "Bien para volúmenes pequeños",
+    "texto": "Para pedidos chicos responden bien; cuando pedimos un volumen mayor el tiempo de entrega se alargó bastante."
+  },
+  {
+    "id": "r018",
+    "proveedorId": "plastinorte-samalayuca",
+    "productoId": "p010",
+    "empresa": "Maquiladora de arneses automotrices",
+    "fecha": "2026-01-07",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 4
+    },
+    "titulo": "Atención profesional",
+    "texto": "Resolvieron dudas técnicas antes de cotizar y propusieron una alternativa más económica que cumplía la especificación."
+  },
+  {
+    "id": "r017",
+    "proveedorId": "plastinorte-samalayuca",
+    "productoId": "p011",
+    "empresa": "Planta de estampado metálico",
+    "fecha": "2026-01-06",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Recomendados",
+    "texto": "Segundo año trabajando con ellos. Pocas incidencias y cuando las hay, las resuelven rápido."
+  },
+  {
+    "id": "r041",
+    "proveedorId": "cobre-arenales",
+    "productoId": "p026",
+    "empresa": "Maquiladora de arneses automotrices",
+    "fecha": "2025-12-22",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 3,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Calidad bien, facturación lenta",
+    "texto": "Sin quejas del metal. La factura tardó más de una semana en llegar."
+  },
+  {
+    "id": "r005",
+    "proveedorId": "polimeros-del-bravo",
+    "productoId": "p004",
+    "empresa": "Maquiladora de equipo de climatización",
+    "fecha": "2025-12-20",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Alternativa confiable",
+    "texto": "Los usamos como segunda fuente de resina y han sido tan consistentes como nuestro proveedor principal."
+  },
+  {
+    "id": "r082",
+    "proveedorId": "insumos-altavista",
+    "productoId": "p050",
+    "empresa": "Fabricante de motores eléctricos",
+    "fecha": "2025-12-17",
+    "calificacion": 1,
+    "calificaciones": {
+      "calidad": 1,
+      "puntualidad": 3,
+      "trato": 2,
+      "cumplimiento": 1
+    },
+    "titulo": "Concentración por debajo de lo indicado",
+    "texto": "El alcohol se ofreció al 99 % y nuestro análisis dio 91 %. Dejó residuos en las tarjetas."
+  },
+  {
+    "id": "r009",
+    "proveedorId": "resinas-medanos",
+    "productoId": "p006",
+    "empresa": "Planta de dispositivos médicos",
+    "fecha": "2025-12-07",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Sin contaminación",
+    "texto": "En tres meses no hemos encontrado puntos negros ni contaminación en el pellet."
+  },
+  {
+    "id": "r051",
+    "proveedorId": "cartonajes-duna-blanca",
+    "productoId": "p031",
+    "empresa": "Fabricante de muebles de oficina",
+    "fecha": "2025-12-05",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 2,
+      "trato": 1,
+      "cumplimiento": 2
+    },
+    "titulo": "No respondieron el reclamo",
+    "texto": "Levantamos un reclamo por faltante y tardaron más de dos semanas en responder dentro de la plataforma."
+  },
+  {
+    "id": "r074",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "productoId": "p043",
+    "empresa": "Fabricante de muebles de oficina",
+    "fecha": "2025-12-05",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 4
+    },
+    "titulo": "Asesoría técnica útil",
+    "texto": "Nos ayudaron a ajustar la concentración del desengrasante y redujimos el consumo."
+  },
+  {
+    "id": "r025",
+    "proveedorId": "aceros-paso-grande",
+    "productoId": "p015",
+    "empresa": "Planta de ensamble de tableros de control",
+    "fecha": "2025-11-28",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Precio estable",
+    "texto": "Respetaron el precio cotizado a pesar de la variación del metal en bolsa durante el mes."
+  },
+  {
+    "id": "r056",
+    "proveedorId": "empaques-sol-del-norte",
+    "productoId": "p034",
+    "empresa": "Maquiladora del sector aeroespacial",
+    "fecha": "2025-11-28",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Documentación completa",
+    "texto": "Entregan certificados de calidad y hojas de seguridad con cada embarque, lo que facilitó la auditoría de nuestro cliente."
+  },
+  {
+    "id": "r015",
+    "proveedorId": "plastinorte-samalayuca",
+    "productoId": "p011",
+    "empresa": "Planta de dispositivos médicos",
+    "fecha": "2025-11-25",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 4
+    },
+    "titulo": "Nos sacaron de un apuro",
+    "texto": "Tuvimos un paro de línea por falta de material y lograron entregar en menos de 48 horas. Muy recomendable para urgencias."
+  },
+  {
+    "id": "r037",
+    "proveedorId": "alambrera-tres-lomas",
+    "productoId": "p022",
+    "empresa": "Ensambladora de electrónica de consumo",
+    "fecha": "2025-11-23",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 2,
+      "trato": 1,
+      "cumplimiento": 2
+    },
+    "titulo": "Poco profesionales",
+    "texto": "Cotizaron con un tiempo de entrega que evidentemente no podían cumplir. Además, el trato por mensajes fue cortante."
+  },
+  {
+    "id": "r010",
+    "proveedorId": "resinas-medanos",
+    "productoId": "p008",
+    "empresa": "Ensambladora de electrónica de consumo",
+    "fecha": "2025-11-14",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Color consistente entre lotes",
+    "texto": "Trabajamos piezas visibles y no hemos tenido variación de tono. Muy buen control."
+  },
+  {
+    "id": "r043",
+    "proveedorId": "cobre-arenales",
+    "productoId": "p025",
+    "empresa": "Fabricante de muebles de oficina",
+    "fecha": "2025-10-21",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Crédito a 60 días sin complicaciones",
+    "texto": "Aprobaron el plazo de pago a 60 días rápidamente y los pedidos siguientes han fluido sin problema."
+  },
+  {
+    "id": "r033",
+    "proveedorId": "metales-cerro-bola",
+    "productoId": "p017",
+    "empresa": "Planta de ensamble de tableros de control",
+    "fecha": "2025-10-13",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Buena relación precio-calidad",
+    "texto": "No son los más baratos, pero la consistencia entre lotes compensa. Hemos reducido rechazos en recibo."
+  },
+  {
+    "id": "r027",
+    "proveedorId": "aceros-paso-grande",
+    "productoId": "p014",
+    "empresa": "Maquiladora de arneses automotrices",
+    "fecha": "2025-09-25",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Cumplen lo que cotizan",
+    "texto": "El precio final respetó lo cotizado y la factura llegó correcta a la primera. Eso nos ahorra mucho tiempo en cuentas por pagar."
+  },
+  {
+    "id": "r004",
+    "proveedorId": "polimeros-del-bravo",
+    "productoId": "p003",
+    "empresa": "Maquiladora del sector aeroespacial",
+    "fecha": "2025-09-19",
+    "calificacion": 4,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 4,
+      "trato": 4,
+      "cumplimiento": 3
+    },
+    "titulo": "Precio bueno, secado obligatorio",
+    "texto": "Llegó con más humedad de lo esperado; con secado adicional funcionó. Conviene considerarlo en tiempos."
+  },
+  {
+    "id": "r071",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "productoId": "p042",
+    "empresa": "Fabricante de componentes eléctricos",
+    "fecha": "2025-09-16",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 2,
+      "puntualidad": 3,
+      "trato": 2,
+      "cumplimiento": 1
+    },
+    "titulo": "Sin hoja de seguridad",
+    "texto": "Entregaron sin HDS ni etiquetado SGA. Seguridad no autorizó el ingreso del material a planta."
+  },
+  {
+    "id": "r031",
+    "proveedorId": "metales-cerro-bola",
+    "productoId": "p019",
+    "empresa": "Fabricante de componentes eléctricos",
+    "fecha": "2025-09-04",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 2,
+      "puntualidad": 3,
+      "trato": 3,
+      "cumplimiento": 2
+    },
+    "titulo": "Óxido en la lámina",
+    "texto": "La lámina llegó con puntos de óxido en varias hojas. Tuvimos que rechazar parte del embarque.",
+    "respuestaProveedor": "Reconocemos el problema de almacenamiento. Repusimos las hojas afectadas y cambiamos el procedimiento de emplayado."
+  },
+  {
+    "id": "r024",
+    "proveedorId": "aceros-paso-grande",
+    "productoId": "p012",
+    "empresa": "Planta de estampado metálico",
+    "fecha": "2025-09-03",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Certificados de molino en orden",
+    "texto": "Cada embarque llega con certificado de colada y la trazabilidad es impecable. Clave para nuestras auditorías."
+  },
+  {
+    "id": "r012",
+    "proveedorId": "resinas-medanos",
+    "productoId": "p007",
+    "empresa": "Planta de moldeo por inyección",
+    "fecha": "2025-08-30",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Material seco y bien empacado",
+    "texto": "Los sacos llegan sellados y sin humedad. El certificado de análisis viene con cada lote."
+  },
+  {
+    "id": "r079",
+    "proveedorId": "solventes-rio-seco",
+    "productoId": "p045",
+    "empresa": "Maquiladora de equipo de telecomunicaciones",
+    "fecha": "2025-08-30",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Fundente muy estable",
+    "texto": "Desde que cambiamos a este fundente bajaron los defectos de soldadura en la línea de ola."
+  },
+  {
+    "id": "r069",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "productoId": "p043",
+    "empresa": "Maquiladora de equipo de telecomunicaciones",
+    "fecha": "2025-08-29",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Hojas de seguridad siempre incluidas",
+    "texto": "Cada entrega llega con HDS actualizada y etiquetado correcto. Seguridad industrial muy contenta."
+  },
+  {
+    "id": "r047",
+    "proveedorId": "cobre-arenales",
+    "productoId": "p027",
+    "empresa": "Planta de estampado metálico",
+    "fecha": "2025-08-26",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 2,
+      "puntualidad": 3,
+      "trato": 2,
+      "cumplimiento": 1
+    },
+    "titulo": "Factura y material no coinciden",
+    "texto": "La factura indicaba un producto distinto al que llegó. Tardaron un mes en emitir la nota de crédito."
+  },
+  {
+    "id": "r061",
+    "proveedorId": "empaques-sol-del-norte",
+    "productoId": "p034",
+    "empresa": "Planta de moldeo por inyección",
+    "fecha": "2025-08-16",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 3,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Correcto, sin más",
+    "texto": "Entregaron lo pedido. Hubo que insistir para obtener el certificado de calidad, pero finalmente lo enviaron."
+  },
+  {
+    "id": "r089",
+    "proveedorId": "suministros-cumbres",
+    "productoId": "p052",
+    "empresa": "Planta de dispositivos médicos",
+    "fecha": "2025-07-09",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Proveedor confiable",
+    "texto": "Llevamos varios pedidos y todos han llegado completos y en la fecha acordada. La cotización se resolvió el mismo día."
+  },
+  {
+    "id": "r014",
+    "proveedorId": "resinas-medanos",
+    "productoId": "p006",
+    "empresa": "Planta de estampado metálico",
+    "fecha": "2025-07-02",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 2,
+      "puntualidad": 3,
+      "trato": 2,
+      "cumplimiento": 1
+    },
+    "titulo": "Sin certificado de análisis",
+    "texto": "Pedimos el certificado varias veces y nunca llegó. Nuestro cliente no nos permitió usar el material."
+  },
+  {
+    "id": "r006",
+    "proveedorId": "polimeros-del-bravo",
+    "productoId": "p001",
+    "empresa": "Fabricante de componentes eléctricos",
+    "fecha": "2025-07-01",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Resina conforme a ficha",
+    "texto": "Enviamos muestra a laboratorio externo y los resultados coincidieron con la ficha técnica."
+  },
+  {
+    "id": "r062",
+    "proveedorId": "corrugados-valle-seco",
+    "productoId": "p039",
+    "empresa": "Fabricante de motores eléctricos",
+    "fecha": "2025-06-30",
+    "calificacion": 4,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 4,
+      "trato": 4,
+      "cumplimiento": 3
+    },
+    "titulo": "Variación en el tono del kraft",
+    "texto": "No afecta la función, pero se nota diferencia de color entre lotes."
+  },
+  {
+    "id": "r020",
+    "proveedorId": "plastinorte-samalayuca",
+    "productoId": "p009",
+    "empresa": "Maquiladora de arneses automotrices",
+    "fecha": "2025-06-24",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 4,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Útil para piezas no críticas",
+    "texto": "El material reciclado sirve para piezas internas, pero no lo usaríamos en piezas visibles."
+  },
+  {
+    "id": "r042",
+    "proveedorId": "cobre-arenales",
+    "productoId": "p024",
+    "empresa": "Maquiladora de arneses automotrices",
+    "fecha": "2025-06-20",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Alambre sin defectos",
+    "texto": "El alambre corre bien en nuestras máquinas, sin quiebres ni variación de diámetro."
+  },
+  {
+    "id": "r070",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "productoId": "p040",
+    "empresa": "Maquiladora de arneses automotrices",
+    "fecha": "2025-06-09",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Envases en buen estado",
+    "texto": "Los tambos llegan sellados, sin fugas y con número de lote visible."
+  },
+  {
+    "id": "r088",
+    "proveedorId": "suministros-cumbres",
+    "productoId": "p054",
+    "empresa": "Maquiladora de equipo de telecomunicaciones",
+    "fecha": "2025-06-02",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 3,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Regular",
+    "texto": "Nada grave, pero tampoco destacan. La factura llegó con un error en el uso de CFDI y tardaron en corregirla."
+  },
+  {
+    "id": "r023",
+    "proveedorId": "aceros-paso-grande",
+    "productoId": "p014",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2025-05-23",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Entregas diarias confiables",
+    "texto": "Tenemos programa de entregas diarias y la puntualidad ha sido excelente."
+  },
+  {
+    "id": "r013",
+    "proveedorId": "resinas-medanos",
+    "productoId": "p007",
+    "empresa": "Fabricante de autopartes (Tier 2)",
+    "fecha": "2025-05-21",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Índice de fluidez consistente",
+    "texto": "Medimos MFI en cada lote y ha estado dentro de rango en todos. Cero ajustes de proceso en las inyectoras."
+  },
+  {
+    "id": "r066",
+    "proveedorId": "corrugados-valle-seco",
+    "productoId": "p039",
+    "empresa": "Maquiladora de arneses automotrices",
+    "fecha": "2025-05-10",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Impresión nítida",
+    "texto": "La impresión del logotipo y de las leyendas de manejo quedó clara y bien registrada."
+  },
+  {
+    "id": "r050",
+    "proveedorId": "cartonajes-duna-blanca",
+    "productoId": "p031",
+    "empresa": "Maquiladora de arneses automotrices",
+    "fecha": "2025-05-06",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 4
+    },
+    "titulo": "Muestras sin costo",
+    "texto": "Nos enviaron muestras físicas antes de producir y ajustaron el diseño sin cargo."
+  },
+  {
+    "id": "r067",
+    "proveedorId": "corrugados-valle-seco",
+    "productoId": "p037",
+    "empresa": "Fabricante de motores eléctricos",
+    "fecha": "2025-05-05",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 3,
+      "trato": 2,
+      "cumplimiento": 1
+    },
+    "titulo": "Cambiaron el precio después de aceptar",
+    "texto": "Aceptamos la cotización y al confirmar el pedido nos informaron un aumento del 8 %. No volveremos a cotizar con ellos."
+  },
+  {
+    "id": "r039",
+    "proveedorId": "alambrera-tres-lomas",
+    "productoId": "p021",
+    "empresa": "Planta de estampado metálico",
+    "fecha": "2025-05-01",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Buen empaque de carretes",
+    "texto": "Los carretes llegan protegidos y bien identificados. Nada de alambre enredado."
+  },
+  {
+    "id": "r045",
+    "proveedorId": "cobre-arenales",
+    "productoId": "p024",
+    "empresa": "Maquiladora de arneses automotrices",
+    "fecha": "2025-04-30",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 4,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Correcto, con detalles de empaque",
+    "texto": "El material cumple, pero algunos rollos llegaron con el amarre flojo y se deformaron las primeras vueltas."
+  },
+  {
+    "id": "r055",
+    "proveedorId": "cartonajes-duna-blanca",
+    "productoId": "p031",
+    "empresa": "Maquiladora de equipo de climatización",
+    "fecha": "2025-04-30",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Diseño a la medida excelente",
+    "texto": "Diseñaron separadores para nuestras piezas y redujimos daños en tránsito casi a cero."
+  },
+  {
+    "id": "r063",
+    "proveedorId": "corrugados-valle-seco",
+    "productoId": "p039",
+    "empresa": "Planta de dispositivos médicos",
+    "fecha": "2025-04-25",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 1,
+      "puntualidad": 2,
+      "trato": 3,
+      "cumplimiento": 2
+    },
+    "titulo": "Cartón húmedo",
+    "texto": "El pedido llegó con cartón húmedo y cajas pandeadas. Rechazamos todo el embarque."
+  },
+  {
+    "id": "r032",
+    "proveedorId": "metales-cerro-bola",
+    "productoId": "p019",
+    "empresa": "Planta de ensamble de tarjetas electrónicas (SMT)",
+    "fecha": "2025-04-22",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Corte a medida preciso",
+    "texto": "Pedimos solera cortada a medida y las tolerancias estuvieron dentro de ±0.5 mm. Nos ahorró una operación."
+  },
+  {
+    "id": "r094",
+    "proveedorId": "suministros-cumbres",
+    "productoId": "p052",
+    "empresa": "Maquiladora de equipo de climatización",
+    "fecha": "2025-04-18",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 2,
+      "puntualidad": 3,
+      "trato": 2,
+      "cumplimiento": 1
+    },
+    "titulo": "Factura y material no coinciden",
+    "texto": "La factura indicaba un producto distinto al que llegó. Tardaron un mes en emitir la nota de crédito."
+  },
+  {
+    "id": "r057",
+    "proveedorId": "empaques-sol-del-norte",
+    "productoId": "p033",
+    "empresa": "Maquiladora de equipo de telecomunicaciones",
+    "fecha": "2025-04-06",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Surtido rapidísimo",
+    "texto": "Pedimos película stretch en la mañana y llegó el mismo día. Muy práctico para no tener inventario."
+  },
+  {
+    "id": "r078",
+    "proveedorId": "solventes-rio-seco",
+    "productoId": "p046",
+    "empresa": "Maquiladora de equipo de telecomunicaciones",
+    "fecha": "2025-03-31",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 1,
+      "puntualidad": 2,
+      "trato": 3,
+      "cumplimiento": 2
+    },
+    "titulo": "Pasta sin refrigeración",
+    "texto": "La pasta para soldar llegó a temperatura ambiente, sin indicador. Tuvimos que desecharla."
+  },
+  {
+    "id": "r022",
+    "proveedorId": "aceros-paso-grande",
+    "productoId": "p012",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2025-03-30",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 3,
+      "puntualidad": 4,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Mejorable en empaque",
+    "texto": "El material cumplió, pero llegó con el empaque exterior dañado. Sugerimos reforzar el emplayado."
+  },
+  {
+    "id": "r028",
+    "proveedorId": "aceros-paso-grande",
+    "productoId": "p012",
+    "empresa": "Fabricante de muebles de oficina",
+    "fecha": "2025-03-25",
+    "calificacion": 1,
+    "calificaciones": {
+      "calidad": 1,
+      "puntualidad": 3,
+      "trato": 2,
+      "cumplimiento": 1
+    },
+    "titulo": "Recubrimiento deficiente",
+    "texto": "El galvanizado se desprendía al doblar. Evidentemente no cumple la clase de recubrimiento que ofrecieron."
+  },
+  {
+    "id": "r085",
+    "proveedorId": "insumos-altavista",
+    "productoId": "p051",
+    "empresa": "Fabricante de muebles de oficina",
+    "fecha": "2025-03-22",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 2,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Entrega parcial",
+    "texto": "Recibimos el 80 % del pedido en la fecha y el resto una semana después. La calidad no tuvo problema."
+  },
+  {
+    "id": "r054",
+    "proveedorId": "cartonajes-duna-blanca",
+    "productoId": "p031",
+    "empresa": "Fabricante de componentes eléctricos",
+    "fecha": "2025-03-19",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 5,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Entregas bien identificadas",
+    "texto": "Cada tarima llega etiquetada con número de lote y orden de compra. Recibo lo agradece."
+  },
+  {
+    "id": "r044",
+    "proveedorId": "cobre-arenales",
+    "productoId": "p024",
+    "empresa": "Maquiladora de equipo de telecomunicaciones",
+    "fecha": "2025-03-15",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 4,
+      "cumplimiento": 5
+    },
+    "titulo": "Esmalte uniforme",
+    "texto": "El alambre magneto pasó nuestras pruebas de rigidez dieléctrica sin fallas."
+  },
+  {
+    "id": "r003",
+    "proveedorId": "polimeros-del-bravo",
+    "productoId": "p004",
+    "empresa": "Fabricante de motores eléctricos",
+    "fecha": "2025-03-13",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Entrega en planta al día siguiente",
+    "texto": "Pedimos por la tarde y al otro día a primera hora teníamos las tarimas en recibo."
+  },
+  {
+    "id": "r040",
+    "proveedorId": "alambrera-tres-lomas",
+    "productoId": "p021",
+    "empresa": "Fabricante de autopartes (Tier 2)",
+    "fecha": "2025-03-01",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 3,
+      "trato": 1,
+      "cumplimiento": 2
+    },
+    "titulo": "Mal trato del vendedor",
+    "texto": "Al reportar una diferencia en la factura, la respuesta fue grosera y poco profesional. El material estaba bien, pero así es difícil trabajar."
+  },
+  {
+    "id": "r073",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "productoId": "p040",
+    "empresa": "Planta de ensamble de tableros de control",
+    "fecha": "2025-02-24",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 5,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Reposición rápida",
+    "texto": "Tenemos consumo alto de solventes y siempre tienen inventario para reponer al día siguiente."
+  },
+  {
+    "id": "r046",
+    "proveedorId": "cobre-arenales",
+    "productoId": "p024",
+    "empresa": "Maquiladora de equipo de climatización",
+    "fecha": "2025-02-15",
+    "calificacion": 2,
+    "calificaciones": {
+      "calidad": 1,
+      "puntualidad": 3,
+      "trato": 3,
+      "cumplimiento": 2
+    },
+    "titulo": "Esmalte con fallas",
+    "texto": "Detectamos poros en el esmalte del alambre magneto. Bobinas en cortocircuito en la prueba final."
+  },
+  {
+    "id": "r021",
+    "proveedorId": "plastinorte-samalayuca",
+    "productoId": "p009",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2025-02-10",
+    "calificacion": 3,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 2,
+      "trato": 3,
+      "cumplimiento": 4
+    },
+    "titulo": "Aceptable",
+    "texto": "Material conforme. El transporte llegó fuera de la ventana de recibo y tuvimos que reprogramar la descarga."
+  },
+  {
+    "id": "r034",
+    "proveedorId": "metales-cerro-bola",
+    "productoId": "p020",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2025-02-01",
+    "calificacion": 5,
+    "calificaciones": {
+      "calidad": 5,
+      "puntualidad": 4,
+      "trato": 5,
+      "cumplimiento": 5
+    },
+    "titulo": "Buen seguimiento",
+    "texto": "El ejecutivo dio seguimiento puntual a través de la plataforma y avisó con anticipación de un cambio en el transporte. Sin sorpresas."
+  },
+  {
+    "id": "r072",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "productoId": "p042",
+    "empresa": "Maquiladora de electrodomésticos",
+    "fecha": "2025-01-16",
+    "calificacion": 4,
+    "calificaciones": {
+      "calidad": 4,
+      "puntualidad": 4,
+      "trato": 3,
+      "cumplimiento": 3
+    },
+    "titulo": "Cumple, empaque mejorable",
+    "texto": "Un par de garrafas llegaron con la tapa floja. No hubo derrame, pero es un riesgo."
+  }
+]

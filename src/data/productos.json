@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "p001",
+    "proveedorId": "polimeros-del-bravo",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "Polipropileno homopolímero grado inyección MFI 12",
+    "descripcion": "Resina de polipropileno homopolímero de fluidez media, ideal para piezas técnicas, tapas y componentes de electrodomésticos moldeados por inyección. Buena rigidez y estabilidad dimensional.",
+    "unidad": "kg",
+    "precioUnitario": 34.5,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 33.2
+      },
+      {
+        "minimo": 5000,
+        "precio": 31.9
+      }
+    ],
+    "pedidoMinimo": 625,
+    "tiempoEntregaDias": {
+      "min": 2,
+      "max": 4
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Tipo": "Homopolímero",
+      "Índice de fluidez (230 °C / 2.16 kg)": "12 g/10 min",
+      "Densidad": "0.905 g/cm³",
+      "Módulo de flexión": "1,550 MPa",
+      "Color": "Natural",
+      "Presentación": "Saco de 25 kg (25 sacos por tarima)"
+    }
+  },
+  {
+    "id": "p002",
+    "proveedorId": "polimeros-del-bravo",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "ABS grado inyección, natural",
+    "descripcion": "ABS de uso general con buen balance entre impacto y fluidez. Apto para carcasas, perillas y componentes interiores.",
+    "unidad": "kg",
+    "precioUnitario": 58.9,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 56.5
+      },
+      {
+        "minimo": 3000,
+        "precio": 54.8
+      }
+    ],
+    "pedidoMinimo": 250,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 5
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60",
+      "90"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Índice de fluidez (220 °C / 10 kg)": "22 g/10 min",
+      "Impacto Izod con muesca": "20 kJ/m²",
+      "Clasificación UL94": "HB",
+      "Temperatura de deflexión (1.8 MPa)": "94 °C",
+      "Presentación": "Saco de 25 kg"
+    }
+  },
+  {
+    "id": "p003",
+    "proveedorId": "polimeros-del-bravo",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "Policarbonato transparente con protección UV",
+    "descripcion": "Policarbonato de alta claridad óptica y estabilizado contra UV para lentes, cubiertas y difusores.",
+    "unidad": "kg",
+    "precioUnitario": 89,
+    "preciosPorVolumen": [
+      {
+        "minimo": 500,
+        "precio": 86
+      },
+      {
+        "minimo": 2000,
+        "precio": 83.4
+      }
+    ],
+    "pedidoMinimo": 100,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 8
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Índice de fluidez (300 °C / 1.2 kg)": "10 g/10 min",
+      "Transmisión de luz": "89 %",
+      "Clasificación UL94": "V-2",
+      "Secado recomendado": "120 °C por 4 h",
+      "Presentación": "Saco de 25 kg"
+    }
+  },
+  {
+    "id": "p004",
+    "proveedorId": "polimeros-del-bravo",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "Nylon 6/6 con 30 % fibra de vidrio, negro",
+    "descripcion": "Poliamida 6/6 reforzada para piezas estructurales, conectores y soportes bajo cofre con alta rigidez y resistencia térmica.",
+    "unidad": "kg",
+    "precioUnitario": 112,
+    "preciosPorVolumen": [
+      {
+        "minimo": 500,
+        "precio": 108
+      },
+      {
+        "minimo": 2000,
+        "precio": 104.5
+      }
+    ],
+    "pedidoMinimo": 100,
+    "tiempoEntregaDias": {
+      "min": 7,
+      "max": 10
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60",
+      "90"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Refuerzo": "30 % fibra de vidrio",
+      "Resistencia a la tensión": "180 MPa",
+      "Temperatura de deflexión (1.8 MPa)": "250 °C",
+      "Clasificación UL94": "HB",
+      "Humedad máxima de proceso": "0.2 %",
+      "Presentación": "Saco de 25 kg"
+    }
+  },
+  {
+    "id": "p005",
+    "proveedorId": "resinas-medanos",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "Polietileno de alta densidad (HDPE) para soplado",
+    "descripcion": "HDPE de alto peso molecular para soplado de envases y contenedores industriales.",
+    "unidad": "kg",
+    "precioUnitario": 31.8,
+    "preciosPorVolumen": [
+      {
+        "minimo": 2000,
+        "precio": 30.6
+      },
+      {
+        "minimo": 10000,
+        "precio": 29.4
+      }
+    ],
+    "pedidoMinimo": 1000,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 5
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Índice de fluidez (190 °C / 2.16 kg)": "0.3 g/10 min",
+      "Densidad": "0.954 g/cm³",
+      "Resistencia al agrietamiento (ESCR)": "> 500 h",
+      "Presentación": "Saco de 25 kg"
+    }
+  },
+  {
+    "id": "p006",
+    "proveedorId": "resinas-medanos",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "Polietileno de baja densidad (LDPE) para película",
+    "descripcion": "LDPE para extrusión de película soplada: bolsas, película de embalaje y laminados.",
+    "unidad": "kg",
+    "precioUnitario": 33.4,
+    "preciosPorVolumen": [
+      {
+        "minimo": 2000,
+        "precio": 32.1
+      }
+    ],
+    "pedidoMinimo": 1000,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 5
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Índice de fluidez (190 °C / 2.16 kg)": "2.0 g/10 min",
+      "Densidad": "0.921 g/cm³",
+      "Aditivos": "Deslizante y antibloqueo",
+      "Presentación": "Saco de 25 kg"
+    }
+  },
+  {
+    "id": "p007",
+    "proveedorId": "resinas-medanos",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "Compuesto de PVC flexible para aislamiento de cable, 70 Shore A",
+    "descripcion": "Compuesto de PVC para extrusión de aislamiento y chaqueta de cable automotriz y de electrodomésticos. Colores bajo pedido.",
+    "unidad": "kg",
+    "precioUnitario": 41.5,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 39.9
+      },
+      {
+        "minimo": 5000,
+        "precio": 38.2
+      }
+    ],
+    "pedidoMinimo": 500,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 7
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Dureza": "70 Shore A",
+      "Temperatura nominal": "105 °C",
+      "Libre de plomo": "Sí",
+      "Densidad": "1.38 g/cm³",
+      "Presentación": "Saco de 25 kg"
+    }
+  },
+  {
+    "id": "p008",
+    "proveedorId": "resinas-medanos",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "Masterbatch negro 50 % negro de humo",
+    "descripcion": "Concentrado de color negro en base polietileno, compatible con PE y PP. Dosificación típica de 1 a 3 %.",
+    "unidad": "kg",
+    "precioUnitario": 64,
+    "preciosPorVolumen": [
+      {
+        "minimo": 200,
+        "precio": 61
+      }
+    ],
+    "pedidoMinimo": 50,
+    "tiempoEntregaDias": {
+      "min": 2,
+      "max": 3
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Contenido de negro de humo": "50 %",
+      "Resina base": "LLDPE",
+      "Dosificación recomendada": "1–3 %",
+      "Presentación": "Saco de 25 kg"
+    }
+  },
+  {
+    "id": "p009",
+    "proveedorId": "plastinorte-samalayuca",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "Polipropileno copolímero reciclado, pellet gris",
+    "descripcion": "PP copolímero reprocesado a partir de scrap post-industrial. Adecuado para tarimas, contenedores y piezas no visibles.",
+    "unidad": "kg",
+    "precioUnitario": 21.5,
+    "preciosPorVolumen": [
+      {
+        "minimo": 2000,
+        "precio": 20.2
+      }
+    ],
+    "pedidoMinimo": 500,
+    "tiempoEntregaDias": {
+      "min": 4,
+      "max": 7
+    },
+    "plazosPago": [
+      "contado"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Origen": "Post-industrial",
+      "Índice de fluidez (230 °C / 2.16 kg)": "8–15 g/10 min (variable por lote)",
+      "Color": "Gris",
+      "Presentación": "Supersaco de 500 kg"
+    }
+  },
+  {
+    "id": "p010",
+    "proveedorId": "plastinorte-samalayuca",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "HDPE reciclado en pellet, natural",
+    "descripcion": "Polietileno de alta densidad reprocesado para inyección de piezas utilitarias.",
+    "unidad": "kg",
+    "precioUnitario": 19.8,
+    "preciosPorVolumen": [
+      {
+        "minimo": 2000,
+        "precio": 18.9
+      }
+    ],
+    "pedidoMinimo": 1000,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 8
+    },
+    "plazosPago": [
+      "contado"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Origen": "Post-industrial",
+      "Densidad": "0.95 g/cm³ aprox.",
+      "Contaminación": "< 0.5 % (inspección visual)",
+      "Presentación": "Supersaco de 500 kg"
+    }
+  },
+  {
+    "id": "p011",
+    "proveedorId": "plastinorte-samalayuca",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "ABS reciclado molido, negro",
+    "descripcion": "Molido de ABS negro proveniente de purgas y piezas rechazadas. Se recomienda mezclar con material virgen.",
+    "unidad": "kg",
+    "precioUnitario": 31,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 29.5
+      }
+    ],
+    "pedidoMinimo": 500,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 10
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Tamaño de partícula": "6–8 mm",
+      "Humedad": "< 0.3 %",
+      "Color": "Negro",
+      "Presentación": "Supersaco de 400 kg"
+    }
+  },
+  {
+    "id": "p012",
+    "proveedorId": "aceros-paso-grande",
+    "categoriaId": "metales-alambre",
+    "nombre": "Alambre galvanizado calibre 14",
+    "descripcion": "Alambre de acero bajo carbono con recubrimiento de zinc por inmersión en caliente para amarres, ganchos y formados.",
+    "unidad": "kg",
+    "precioUnitario": 38.9,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 37.2
+      },
+      {
+        "minimo": 5000,
+        "precio": 35.8
+      }
+    ],
+    "pedidoMinimo": 500,
+    "tiempoEntregaDias": {
+      "min": 2,
+      "max": 3
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Diámetro": "2.03 mm",
+      "Recubrimiento": "Zinc clase 1 (ASTM A641)",
+      "Resistencia a la tensión": "420–550 MPa",
+      "Presentación": "Rollo de 50 kg"
+    }
+  },
+  {
+    "id": "p013",
+    "proveedorId": "aceros-paso-grande",
+    "categoriaId": "metales-alambre",
+    "nombre": "Lámina rolada en frío calibre 20",
+    "descripcion": "Lámina de acero rolada en frío para estampado, doblez y fabricación de gabinetes.",
+    "unidad": "kg",
+    "precioUnitario": 27.4,
+    "preciosPorVolumen": [
+      {
+        "minimo": 5000,
+        "precio": 26.3
+      },
+      {
+        "minimo": 20000,
+        "precio": 25.1
+      }
+    ],
+    "pedidoMinimo": 2000,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 7
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60",
+      "90"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Espesor": "0.91 mm",
+      "Norma": "ASTM A1008 CS Tipo B",
+      "Formato": "1.22 × 2.44 m (4 × 8 ft)",
+      "Acabado": "Aceitado"
+    }
+  },
+  {
+    "id": "p014",
+    "proveedorId": "aceros-paso-grande",
+    "categoriaId": "metales-alambre",
+    "nombre": "Solera de acero A36 de 1/4\" × 2\"",
+    "descripcion": "Solera de acero estructural para soportes, bases y herramentales.",
+    "unidad": "kg",
+    "precioUnitario": 31.2,
+    "preciosPorVolumen": [
+      {
+        "minimo": 3000,
+        "precio": 30.1
+      }
+    ],
+    "pedidoMinimo": 1000,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 5
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Norma": "ASTM A36",
+      "Medida": "6.35 × 50.8 mm",
+      "Longitud": "6.10 m",
+      "Peso aproximado": "2.53 kg/m"
+    }
+  },
+  {
+    "id": "p015",
+    "proveedorId": "aceros-paso-grande",
+    "categoriaId": "metales-alambre",
+    "nombre": "Alambre recocido negro calibre 16",
+    "descripcion": "Alambre recocido de alta flexibilidad para amarres de empaque y uso general en planta.",
+    "unidad": "kg",
+    "precioUnitario": 36.5,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 35
+      }
+    ],
+    "pedidoMinimo": 250,
+    "tiempoEntregaDias": {
+      "min": 1,
+      "max": 2
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Diámetro": "1.59 mm",
+      "Acabado": "Negro recocido",
+      "Presentación": "Rollo de 20 kg"
+    }
+  },
+  {
+    "id": "p016",
+    "proveedorId": "aceros-paso-grande",
+    "categoriaId": "metales-alambre",
+    "nombre": "Tubo cuadrado de acero 1\" calibre 18",
+    "descripcion": "Perfil tubular para estructuras ligeras, carros de transporte interno y estaciones de trabajo.",
+    "unidad": "pieza",
+    "precioUnitario": 245,
+    "preciosPorVolumen": [
+      {
+        "minimo": 100,
+        "precio": 232
+      },
+      {
+        "minimo": 500,
+        "precio": 219
+      }
+    ],
+    "pedidoMinimo": 50,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 5
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Medida": "25.4 × 25.4 mm",
+      "Espesor": "1.21 mm",
+      "Longitud": "6.00 m por pieza",
+      "Norma": "ASTM A513"
+    }
+  },
+  {
+    "id": "p017",
+    "proveedorId": "metales-cerro-bola",
+    "categoriaId": "metales-alambre",
+    "nombre": "Barra redonda de aluminio 6061-T6 de 1\"",
+    "descripcion": "Barra extruida de aluminio 6061-T6 para maquinado CNC de fixtures, componentes y prototipos.",
+    "unidad": "kg",
+    "precioUnitario": 98.5,
+    "preciosPorVolumen": [
+      {
+        "minimo": 500,
+        "precio": 95
+      },
+      {
+        "minimo": 2000,
+        "precio": 92.3
+      }
+    ],
+    "pedidoMinimo": 100,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 6
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Aleación": "6061-T6",
+      "Diámetro": "25.4 mm",
+      "Longitud": "3.66 m",
+      "Norma": "ASTM B221",
+      "Certificado de colada": "Incluido"
+    }
+  },
+  {
+    "id": "p018",
+    "proveedorId": "metales-cerro-bola",
+    "categoriaId": "metales-alambre",
+    "nombre": "Lámina de acero inoxidable 304 calibre 18, acabado 2B",
+    "descripcion": "Inoxidable austenítico para gabinetes, charolas y equipo en contacto con químicos de limpieza.",
+    "unidad": "kg",
+    "precioUnitario": 86,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 83.2
+      }
+    ],
+    "pedidoMinimo": 300,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 8
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60",
+      "90"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Aleación": "AISI 304",
+      "Espesor": "1.21 mm",
+      "Acabado": "2B",
+      "Formato": "1.22 × 3.05 m",
+      "Norma": "ASTM A240"
+    }
+  },
+  {
+    "id": "p019",
+    "proveedorId": "metales-cerro-bola",
+    "categoriaId": "metales-alambre",
+    "nombre": "Placa de aluminio 5052-H32 de 1/8\"",
+    "descripcion": "Placa con excelente formabilidad y resistencia a la corrosión para gabinetes y cubiertas.",
+    "unidad": "kg",
+    "precioUnitario": 104,
+    "preciosPorVolumen": [
+      {
+        "minimo": 500,
+        "precio": 100.5
+      }
+    ],
+    "pedidoMinimo": 200,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 8
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Aleación": "5052-H32",
+      "Espesor": "3.18 mm",
+      "Formato": "1.22 × 2.44 m",
+      "Norma": "ASTM B209"
+    }
+  },
+  {
+    "id": "p020",
+    "proveedorId": "metales-cerro-bola",
+    "categoriaId": "metales-alambre",
+    "nombre": "Barra de latón C360 de 1/2\"",
+    "descripcion": "Latón de libre maquinado para terminales, insertos roscados y conectores.",
+    "unidad": "kg",
+    "precioUnitario": 185,
+    "preciosPorVolumen": [
+      {
+        "minimo": 300,
+        "precio": 179
+      }
+    ],
+    "pedidoMinimo": 50,
+    "tiempoEntregaDias": {
+      "min": 7,
+      "max": 12
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Aleación": "C36000",
+      "Diámetro": "12.7 mm",
+      "Longitud": "3.66 m",
+      "Norma": "ASTM B16"
+    }
+  },
+  {
+    "id": "p021",
+    "proveedorId": "alambrera-tres-lomas",
+    "categoriaId": "metales-alambre",
+    "nombre": "Alambre galvanizado calibre 12",
+    "descripcion": "Alambre galvanizado de uso general para amarre y formado.",
+    "unidad": "kg",
+    "precioUnitario": 36.2,
+    "preciosPorVolumen": [
+      {
+        "minimo": 2000,
+        "precio": 34.9
+      }
+    ],
+    "pedidoMinimo": 500,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 7
+    },
+    "plazosPago": [
+      "contado"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Diámetro": "2.68 mm",
+      "Recubrimiento": "Zinc (sin especificar clase)",
+      "Presentación": "Rollo de 45–50 kg"
+    }
+  },
+  {
+    "id": "p022",
+    "proveedorId": "alambrera-tres-lomas",
+    "categoriaId": "metales-alambre",
+    "nombre": "Alambre acerado para resortes de 0.8 mm",
+    "descripcion": "Alambre de alto carbono estirado en frío para resortes de compresión y torsión.",
+    "unidad": "kg",
+    "precioUnitario": 72,
+    "preciosPorVolumen": [
+      {
+        "minimo": 500,
+        "precio": 69
+      }
+    ],
+    "pedidoMinimo": 100,
+    "tiempoEntregaDias": {
+      "min": 7,
+      "max": 15
+    },
+    "plazosPago": [
+      "contado"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Diámetro": "0.80 mm",
+      "Norma": "ASTM A228 (según proveedor)",
+      "Presentación": "Carrete de 25 kg"
+    }
+  },
+  {
+    "id": "p023",
+    "proveedorId": "alambrera-tres-lomas",
+    "categoriaId": "metales-alambre",
+    "nombre": "Alambre de acero bajo carbono calibre 10 para trefilado",
+    "descripcion": "Alambrón trefilado para procesos de reducción y formado en frío.",
+    "unidad": "kg",
+    "precioUnitario": 33.8,
+    "preciosPorVolumen": [
+      {
+        "minimo": 5000,
+        "precio": 32.5
+      }
+    ],
+    "pedidoMinimo": 1000,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 10
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Diámetro": "3.43 mm",
+      "Carbono": "0.08–0.12 %",
+      "Presentación": "Rollo de 500 kg"
+    }
+  },
+  {
+    "id": "p024",
+    "proveedorId": "cobre-arenales",
+    "categoriaId": "metales-alambre",
+    "nombre": "Alambre magneto de cobre 18 AWG, clase H (200 °C)",
+    "descripcion": "Alambre esmaltado para devanado de motores, transformadores y bobinas.",
+    "unidad": "kg",
+    "precioUnitario": 268,
+    "preciosPorVolumen": [
+      {
+        "minimo": 200,
+        "precio": 259
+      },
+      {
+        "minimo": 1000,
+        "precio": 251
+      }
+    ],
+    "pedidoMinimo": 50,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 10
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Calibre": "18 AWG (1.024 mm)",
+      "Clase térmica": "H — 200 °C",
+      "Aislamiento": "Poliéster-imida + poliamida-imida",
+      "Presentación": "Carrete de 25 kg"
+    }
+  },
+  {
+    "id": "p025",
+    "proveedorId": "cobre-arenales",
+    "categoriaId": "metales-alambre",
+    "nombre": "Cable THHN/THWN-2 calibre 12 AWG, rollo de 100 m",
+    "descripcion": "Conductor de cobre suave con aislamiento de PVC y cubierta de nylon para instalaciones en planta.",
+    "unidad": "rollo",
+    "precioUnitario": 1385,
+    "preciosPorVolumen": [
+      {
+        "minimo": 20,
+        "precio": 1329
+      },
+      {
+        "minimo": 100,
+        "precio": 1279
+      }
+    ],
+    "pedidoMinimo": 10,
+    "tiempoEntregaDias": {
+      "min": 2,
+      "max": 4
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Calibre": "12 AWG",
+      "Tensión": "600 V",
+      "Temperatura": "90 °C",
+      "Longitud": "100 m por rollo"
+    }
+  },
+  {
+    "id": "p026",
+    "proveedorId": "cobre-arenales",
+    "categoriaId": "metales-alambre",
+    "nombre": "Solera de cobre electrolítico de 1/4\" × 1\"",
+    "descripcion": "Barra de cobre ETP para barras colectoras y conexiones de alta corriente.",
+    "unidad": "kg",
+    "precioUnitario": 245,
+    "preciosPorVolumen": [
+      {
+        "minimo": 300,
+        "precio": 238
+      }
+    ],
+    "pedidoMinimo": 100,
+    "tiempoEntregaDias": {
+      "min": 7,
+      "max": 10
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Aleación": "C11000 (ETP)",
+      "Medida": "6.35 × 25.4 mm",
+      "Longitud": "3.66 m",
+      "Conductividad": "≥ 100 % IACS"
+    }
+  },
+  {
+    "id": "p027",
+    "proveedorId": "cobre-arenales",
+    "categoriaId": "metales-alambre",
+    "nombre": "Cable de cobre estañado 22 AWG para arneses, rollo de 305 m",
+    "descripcion": "Cable multifilar estañado con aislamiento de PVC para arneses de electrodomésticos y equipo electrónico.",
+    "unidad": "rollo",
+    "precioUnitario": 1120,
+    "preciosPorVolumen": [
+      {
+        "minimo": 20,
+        "precio": 1070
+      }
+    ],
+    "pedidoMinimo": 10,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 6
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Calibre": "22 AWG (7 hilos)",
+      "Tensión": "300 V",
+      "Temperatura": "105 °C",
+      "Longitud": "305 m por rollo",
+      "Colores": "10 colores disponibles"
+    }
+  },
+  {
+    "id": "p028",
+    "proveedorId": "cartonajes-duna-blanca",
+    "categoriaId": "empaque-carton",
+    "nombre": "Caja de cartón corrugado sencillo 40 × 30 × 30 cm, ECT 32",
+    "descripcion": "Caja regular ranurada (RSC) para envío de componentes y producto terminado. Impresión a una tinta opcional.",
+    "unidad": "pieza",
+    "precioUnitario": 19.4,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 17.8
+      },
+      {
+        "minimo": 5000,
+        "precio": 16.2
+      }
+    ],
+    "pedidoMinimo": 500,
+    "tiempoEntregaDias": {
+      "min": 4,
+      "max": 6
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60",
+      "90"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Estilo": "Caja regular ranurada (RSC)",
+      "Medidas interiores": "40 × 30 × 30 cm",
+      "Resistencia": "ECT 32 lb/in",
+      "Flauta": "C",
+      "Color": "Kraft"
+    }
+  },
+  {
+    "id": "p029",
+    "proveedorId": "cartonajes-duna-blanca",
+    "categoriaId": "empaque-carton",
+    "nombre": "Caja de cartón doble corrugado 60 × 40 × 40 cm, ECT 48",
+    "descripcion": "Caja de doble pared para piezas pesadas y estiba alta en almacén.",
+    "unidad": "pieza",
+    "precioUnitario": 38.5,
+    "preciosPorVolumen": [
+      {
+        "minimo": 500,
+        "precio": 36.1
+      },
+      {
+        "minimo": 2000,
+        "precio": 33.9
+      }
+    ],
+    "pedidoMinimo": 250,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 7
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60",
+      "90"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Estilo": "RSC doble pared",
+      "Medidas interiores": "60 × 40 × 40 cm",
+      "Resistencia": "ECT 48 lb/in",
+      "Flauta": "BC",
+      "Color": "Kraft"
+    }
+  },
+  {
+    "id": "p030",
+    "proveedorId": "cartonajes-duna-blanca",
+    "categoriaId": "empaque-carton",
+    "nombre": "Esquinero de cartón 2\" × 2\" × 48\"",
+    "descripcion": "Protector de esquinas de cartón laminado para tarimas y flejado.",
+    "unidad": "pieza",
+    "precioUnitario": 4.8,
+    "preciosPorVolumen": [
+      {
+        "minimo": 5000,
+        "precio": 4.35
+      },
+      {
+        "minimo": 20000,
+        "precio": 3.95
+      }
+    ],
+    "pedidoMinimo": 2000,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 5
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Medidas": "50.8 × 50.8 mm",
+      "Longitud": "1,219 mm",
+      "Espesor": "3 mm",
+      "Material": "Cartón laminado 100 % reciclable"
+    }
+  },
+  {
+    "id": "p031",
+    "proveedorId": "cartonajes-duna-blanca",
+    "categoriaId": "empaque-carton",
+    "nombre": "Separadores de cartón corrugado a medida",
+    "descripcion": "Divisiones tipo panal para proteger piezas individuales dentro de la caja. Diseño según plano del cliente.",
+    "unidad": "pieza",
+    "precioUnitario": 2.9,
+    "preciosPorVolumen": [
+      {
+        "minimo": 10000,
+        "precio": 2.55
+      }
+    ],
+    "pedidoMinimo": 5000,
+    "tiempoEntregaDias": {
+      "min": 7,
+      "max": 10
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Material": "Corrugado sencillo flauta B",
+      "Configuración": "Según plano",
+      "Muestra física": "Sin costo antes de producción"
+    }
+  },
+  {
+    "id": "p032",
+    "proveedorId": "cartonajes-duna-blanca",
+    "categoriaId": "empaque-carton",
+    "nombre": "Hoja de cartón sólido para tarima (slip sheet) 1.20 × 1.00 m",
+    "descripcion": "Hoja deslizante para sustituir tarimas de madera en envíos de exportación.",
+    "unidad": "pieza",
+    "precioUnitario": 28.6,
+    "preciosPorVolumen": [
+      {
+        "minimo": 2000,
+        "precio": 26.9
+      }
+    ],
+    "pedidoMinimo": 500,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 7
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Medidas": "1,200 × 1,000 mm",
+      "Calibre": "0.9 mm",
+      "Pestaña": "100 mm en un lado",
+      "Material": "Cartón sólido kraft"
+    }
+  },
+  {
+    "id": "p033",
+    "proveedorId": "empaques-sol-del-norte",
+    "categoriaId": "empaque-carton",
+    "nombre": "Película stretch manual 18\" × 1,500 ft, calibre 80",
+    "descripcion": "Película estirable transparente para emplayado manual de tarimas.",
+    "unidad": "rollo",
+    "precioUnitario": 289,
+    "preciosPorVolumen": [
+      {
+        "minimo": 48,
+        "precio": 274
+      },
+      {
+        "minimo": 240,
+        "precio": 259
+      }
+    ],
+    "pedidoMinimo": 24,
+    "tiempoEntregaDias": {
+      "min": 1,
+      "max": 3
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Ancho": "457 mm (18\")",
+      "Largo": "457 m (1,500 ft)",
+      "Calibre": "80 (20 µm)",
+      "Presentación": "Caja con 4 rollos"
+    }
+  },
+  {
+    "id": "p034",
+    "proveedorId": "empaques-sol-del-norte",
+    "categoriaId": "empaque-carton",
+    "nombre": "Bolsa antiestática metalizada 20 × 25 cm",
+    "descripcion": "Bolsa de blindaje electrostático para tarjetas electrónicas y componentes sensibles a ESD.",
+    "unidad": "pieza",
+    "precioUnitario": 3.4,
+    "preciosPorVolumen": [
+      {
+        "minimo": 5000,
+        "precio": 3.05
+      },
+      {
+        "minimo": 20000,
+        "precio": 2.78
+      }
+    ],
+    "pedidoMinimo": 1000,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 8
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Medidas": "200 × 250 mm",
+      "Resistencia superficial": "10⁸–10¹¹ Ω",
+      "Cierre": "Abierta (sellable con calor)",
+      "Norma": "ANSI/ESD S541"
+    }
+  },
+  {
+    "id": "p035",
+    "proveedorId": "empaques-sol-del-norte",
+    "categoriaId": "empaque-carton",
+    "nombre": "Plástico burbuja 1.20 m × 100 m",
+    "descripcion": "Rollo de burbuja para protección de piezas frágiles y acabados.",
+    "unidad": "rollo",
+    "precioUnitario": 645,
+    "preciosPorVolumen": [
+      {
+        "minimo": 20,
+        "precio": 612
+      }
+    ],
+    "pedidoMinimo": 5,
+    "tiempoEntregaDias": {
+      "min": 2,
+      "max": 4
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Ancho": "1.20 m",
+      "Largo": "100 m",
+      "Diámetro de burbuja": "10 mm",
+      "Material": "Polietileno de baja densidad"
+    }
+  },
+  {
+    "id": "p036",
+    "proveedorId": "empaques-sol-del-norte",
+    "categoriaId": "empaque-carton",
+    "nombre": "Cinta canela 48 mm × 150 m",
+    "descripcion": "Cinta adhesiva de polipropileno para cierre de cajas.",
+    "unidad": "rollo",
+    "precioUnitario": 38.5,
+    "preciosPorVolumen": [
+      {
+        "minimo": 360,
+        "precio": 35.2
+      }
+    ],
+    "pedidoMinimo": 36,
+    "tiempoEntregaDias": {
+      "min": 1,
+      "max": 2
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Ancho": "48 mm",
+      "Largo": "150 m",
+      "Adhesivo": "Acrílico base agua",
+      "Presentación": "Caja con 36 rollos"
+    }
+  },
+  {
+    "id": "p037",
+    "proveedorId": "corrugados-valle-seco",
+    "categoriaId": "empaque-carton",
+    "nombre": "Caja de cartón corrugado 30 × 30 × 30 cm",
+    "descripcion": "Caja estándar de pared sencilla para uso general.",
+    "unidad": "pieza",
+    "precioUnitario": 14.9,
+    "preciosPorVolumen": [
+      {
+        "minimo": 5000,
+        "precio": 13.8
+      }
+    ],
+    "pedidoMinimo": 1000,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 9
+    },
+    "plazosPago": [
+      "contado"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Estilo": "RSC",
+      "Medidas interiores": "30 × 30 × 30 cm",
+      "Resistencia": "ECT 29 lb/in",
+      "Flauta": "C"
+    }
+  },
+  {
+    "id": "p038",
+    "proveedorId": "corrugados-valle-seco",
+    "categoriaId": "empaque-carton",
+    "nombre": "Cartón corrugado en rollo 1.20 m × 50 m (una cara)",
+    "descripcion": "Corrugado flexible para envolver piezas y proteger superficies.",
+    "unidad": "rollo",
+    "precioUnitario": 520,
+    "preciosPorVolumen": [
+      {
+        "minimo": 30,
+        "precio": 495
+      }
+    ],
+    "pedidoMinimo": 10,
+    "tiempoEntregaDias": {
+      "min": 4,
+      "max": 8
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Ancho": "1.20 m",
+      "Largo": "50 m",
+      "Flauta": "B",
+      "Material": "Kraft reciclado"
+    }
+  },
+  {
+    "id": "p039",
+    "proveedorId": "corrugados-valle-seco",
+    "categoriaId": "empaque-carton",
+    "nombre": "Caja impresa a una tinta 50 × 40 × 30 cm",
+    "descripcion": "Caja con impresión flexográfica de logotipo y leyendas de manejo.",
+    "unidad": "pieza",
+    "precioUnitario": 24.6,
+    "preciosPorVolumen": [
+      {
+        "minimo": 5000,
+        "precio": 22.9
+      }
+    ],
+    "pedidoMinimo": 2000,
+    "tiempoEntregaDias": {
+      "min": 10,
+      "max": 15
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Estilo": "RSC",
+      "Medidas interiores": "50 × 40 × 30 cm",
+      "Impresión": "1 tinta, 2 caras",
+      "Resistencia": "ECT 32 lb/in"
+    }
+  },
+  {
+    "id": "p040",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Alcohol isopropílico 99.9 % grado electrónico",
+    "descripcion": "IPA de alta pureza para limpieza de tarjetas electrónicas, conectores y superficies antes de pegado.",
+    "unidad": "litro",
+    "precioUnitario": 68.5,
+    "preciosPorVolumen": [
+      {
+        "minimo": 200,
+        "precio": 64.8
+      },
+      {
+        "minimo": 1000,
+        "precio": 61.2
+      }
+    ],
+    "pedidoMinimo": 20,
+    "tiempoEntregaDias": {
+      "min": 1,
+      "max": 3
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Pureza": "≥ 99.9 %",
+      "Contenido de agua": "≤ 0.1 %",
+      "Residuo": "≤ 5 ppm",
+      "Presentación": "Garrafa de 20 L o tambo de 200 L",
+      "Hoja de seguridad": "Incluida"
+    }
+  },
+  {
+    "id": "p041",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Acetona industrial",
+    "descripcion": "Solvente de evaporación rápida para limpieza de herramentales, remoción de adhesivos y dilución de resinas.",
+    "unidad": "litro",
+    "precioUnitario": 39.8,
+    "preciosPorVolumen": [
+      {
+        "minimo": 200,
+        "precio": 37.4
+      },
+      {
+        "minimo": 1000,
+        "precio": 35.1
+      }
+    ],
+    "pedidoMinimo": 20,
+    "tiempoEntregaDias": {
+      "min": 1,
+      "max": 3
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Pureza": "≥ 99.5 %",
+      "Punto de inflamación": "-20 °C",
+      "Presentación": "Garrafa de 20 L o tambo de 200 L"
+    }
+  },
+  {
+    "id": "p042",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Desengrasante alcalino base agua para metales",
+    "descripcion": "Limpiador concentrado para lavadoras de piezas por aspersión o inmersión. Remueve aceites de estampado y virutas.",
+    "unidad": "litro",
+    "precioUnitario": 46,
+    "preciosPorVolumen": [
+      {
+        "minimo": 200,
+        "precio": 42.5
+      },
+      {
+        "minimo": 1000,
+        "precio": 39.9
+      }
+    ],
+    "pedidoMinimo": 20,
+    "tiempoEntregaDias": {
+      "min": 2,
+      "max": 4
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "pH": "12.5 (concentrado)",
+      "Dilución": "3–10 %",
+      "Espuma": "Baja",
+      "Presentación": "Tambo de 200 L o IBC de 1,000 L"
+    }
+  },
+  {
+    "id": "p043",
+    "proveedorId": "quimica-lomas-del-poniente",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Aceite de corte soluble semisintético",
+    "descripcion": "Fluido de maquinado para centros CNC y tornos. Buena lubricidad y protección contra oxidación.",
+    "unidad": "litro",
+    "precioUnitario": 88,
+    "preciosPorVolumen": [
+      {
+        "minimo": 200,
+        "precio": 83.5
+      }
+    ],
+    "pedidoMinimo": 20,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 5
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60",
+      "90"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Tipo": "Semisintético",
+      "Concentración de uso": "5–8 %",
+      "Libre de": "Cloro y nitritos",
+      "Presentación": "Cubeta de 19 L o tambo de 200 L"
+    }
+  },
+  {
+    "id": "p044",
+    "proveedorId": "solventes-rio-seco",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Thinner estándar",
+    "descripcion": "Mezcla de solventes para limpieza de equipo de pintura y dilución de esmaltes.",
+    "unidad": "litro",
+    "precioUnitario": 31.5,
+    "preciosPorVolumen": [
+      {
+        "minimo": 200,
+        "precio": 29.6
+      }
+    ],
+    "pedidoMinimo": 20,
+    "tiempoEntregaDias": {
+      "min": 1,
+      "max": 2
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Tipo": "Mezcla de solventes aromáticos y alifáticos",
+      "Presentación": "Garrafa de 20 L o tambo de 200 L"
+    }
+  },
+  {
+    "id": "p045",
+    "proveedorId": "solventes-rio-seco",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Fundente (flux) no-clean para soldadura por ola",
+    "descripcion": "Fundente de bajo contenido de sólidos que no requiere limpieza posterior. Para soldadura por ola con aleaciones libres de plomo.",
+    "unidad": "litro",
+    "precioUnitario": 395,
+    "preciosPorVolumen": [
+      {
+        "minimo": 20,
+        "precio": 372
+      },
+      {
+        "minimo": 100,
+        "precio": 355
+      }
+    ],
+    "pedidoMinimo": 4,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 10
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Contenido de sólidos": "2.0 %",
+      "Clasificación": "ROL0 (J-STD-004)",
+      "Base": "Alcohol",
+      "Presentación": "Galón de 3.78 L o garrafa de 20 L"
+    }
+  },
+  {
+    "id": "p046",
+    "proveedorId": "solventes-rio-seco",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Pasta para soldar SAC305 tipo 4, frasco de 500 g",
+    "descripcion": "Pasta libre de plomo para impresión por esténcil en líneas SMT de paso fino.",
+    "unidad": "frasco",
+    "precioUnitario": 1980,
+    "preciosPorVolumen": [
+      {
+        "minimo": 20,
+        "precio": 1890
+      }
+    ],
+    "pedidoMinimo": 5,
+    "tiempoEntregaDias": {
+      "min": 7,
+      "max": 14
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Aleación": "Sn96.5 / Ag3.0 / Cu0.5",
+      "Tamaño de partícula": "Tipo 4 (20–38 µm)",
+      "Fundente": "No-clean ROL0",
+      "Almacenamiento": "2–10 °C",
+      "Presentación": "Frasco de 500 g"
+    }
+  },
+  {
+    "id": "p047",
+    "proveedorId": "solventes-rio-seco",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Limpiador de esténciles base agua",
+    "descripcion": "Limpiador para esténciles y herramentales SMT compatible con lavadoras automáticas.",
+    "unidad": "litro",
+    "precioUnitario": 142,
+    "preciosPorVolumen": [
+      {
+        "minimo": 100,
+        "precio": 134
+      }
+    ],
+    "pedidoMinimo": 20,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 5
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Base": "Agua con saponificador",
+      "Temperatura de uso": "25–50 °C",
+      "Presentación": "Garrafa de 20 L"
+    }
+  },
+  {
+    "id": "p048",
+    "proveedorId": "insumos-altavista",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Hipoclorito de sodio al 13 %",
+    "descripcion": "Hipoclorito para sanitización y tratamiento de agua.",
+    "unidad": "litro",
+    "precioUnitario": 12.8,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 11.9
+      }
+    ],
+    "pedidoMinimo": 200,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 6
+    },
+    "plazosPago": [
+      "contado"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Concentración": "13 % cloro activo",
+      "Presentación": "Tambo de 200 L o IBC"
+    }
+  },
+  {
+    "id": "p049",
+    "proveedorId": "insumos-altavista",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Sosa cáustica en escamas 98 %",
+    "descripcion": "Hidróxido de sodio para limpieza industrial y ajuste de pH.",
+    "unidad": "kg",
+    "precioUnitario": 24.5,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 23.1
+      }
+    ],
+    "pedidoMinimo": 250,
+    "tiempoEntregaDias": {
+      "min": 4,
+      "max": 8
+    },
+    "plazosPago": [
+      "contado"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Pureza": "≥ 98 %",
+      "Forma": "Escamas",
+      "Presentación": "Saco de 25 kg"
+    }
+  },
+  {
+    "id": "p050",
+    "proveedorId": "insumos-altavista",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Alcohol isopropílico 99 %",
+    "descripcion": "Alcohol isopropílico para limpieza general.",
+    "unidad": "litro",
+    "precioUnitario": 59.9,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 56
+      }
+    ],
+    "pedidoMinimo": 200,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 10
+    },
+    "plazosPago": [
+      "contado"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Pureza": "99 % (según proveedor)",
+      "Presentación": "Tambo de 200 L"
+    }
+  },
+  {
+    "id": "p051",
+    "proveedorId": "insumos-altavista",
+    "categoriaId": "quimicos-industriales",
+    "nombre": "Ácido cítrico anhidro",
+    "descripcion": "Ácido orgánico para pasivado de inoxidable y desincrustación de equipos.",
+    "unidad": "kg",
+    "precioUnitario": 48,
+    "preciosPorVolumen": [
+      {
+        "minimo": 500,
+        "precio": 45.5
+      }
+    ],
+    "pedidoMinimo": 100,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 8
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Pureza": "≥ 99.5 %",
+      "Forma": "Granular",
+      "Presentación": "Saco de 25 kg"
+    }
+  },
+  {
+    "id": "p052",
+    "proveedorId": "suministros-cumbres",
+    "categoriaId": "empaque-carton",
+    "nombre": "Charola termoformada PET antiestática a medida",
+    "descripcion": "Charola con cavidades según pieza para manejo interno y envío de componentes electrónicos o médicos.",
+    "unidad": "pieza",
+    "precioUnitario": 9.8,
+    "preciosPorVolumen": [
+      {
+        "minimo": 5000,
+        "precio": 8.7
+      },
+      {
+        "minimo": 20000,
+        "precio": 7.9
+      }
+    ],
+    "pedidoMinimo": 2000,
+    "tiempoEntregaDias": {
+      "min": 15,
+      "max": 20
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": true,
+    "especificaciones": {
+      "Material": "PET con recubrimiento disipativo",
+      "Espesor": "0.8–1.2 mm",
+      "Resistencia superficial": "10⁶–10⁹ Ω",
+      "Herramental": "Cotización por separado"
+    }
+  },
+  {
+    "id": "p053",
+    "proveedorId": "suministros-cumbres",
+    "categoriaId": "resinas-plasticos",
+    "nombre": "Lámina PET de 0.5 mm para termoformado",
+    "descripcion": "Lámina transparente en rollo para termoformado de blísters y charolas.",
+    "unidad": "kg",
+    "precioUnitario": 52,
+    "preciosPorVolumen": [
+      {
+        "minimo": 1000,
+        "precio": 49.5
+      }
+    ],
+    "pedidoMinimo": 500,
+    "tiempoEntregaDias": {
+      "min": 5,
+      "max": 8
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Espesor": "0.5 mm",
+      "Ancho": "660 mm",
+      "Material": "PET amorfo (APET)",
+      "Presentación": "Rollo de 250 kg aprox."
+    }
+  },
+  {
+    "id": "p054",
+    "proveedorId": "suministros-cumbres",
+    "categoriaId": "empaque-carton",
+    "nombre": "Fleje de polipropileno de 1/2\", rollo de 3,000 m",
+    "descripcion": "Fleje para cierre de cajas y aseguramiento de carga en tarima, manual o con máquina semiautomática.",
+    "unidad": "rollo",
+    "precioUnitario": 520,
+    "preciosPorVolumen": [
+      {
+        "minimo": 20,
+        "precio": 492
+      }
+    ],
+    "pedidoMinimo": 5,
+    "tiempoEntregaDias": {
+      "min": 2,
+      "max": 4
+    },
+    "plazosPago": [
+      "contado",
+      "30"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Ancho": "12.7 mm",
+      "Largo": "3,000 m",
+      "Resistencia a la ruptura": "140 kgf",
+      "Núcleo": "200 mm"
+    }
+  },
+  {
+    "id": "p055",
+    "proveedorId": "suministros-cumbres",
+    "categoriaId": "empaque-carton",
+    "nombre": "Bolsa de polietileno 30 × 40 cm, calibre 200",
+    "descripcion": "Bolsa transparente de baja densidad para empaque individual de piezas.",
+    "unidad": "pieza",
+    "precioUnitario": 1.1,
+    "preciosPorVolumen": [
+      {
+        "minimo": 10000,
+        "precio": 0.95
+      }
+    ],
+    "pedidoMinimo": 5000,
+    "tiempoEntregaDias": {
+      "min": 3,
+      "max": 6
+    },
+    "plazosPago": [
+      "contado",
+      "30",
+      "60"
+    ],
+    "destacado": false,
+    "especificaciones": {
+      "Medidas": "300 × 400 mm",
+      "Calibre": "200 (50 µm)",
+      "Material": "LDPE virgen",
+      "Presentación": "Paquete de 1,000 piezas"
+    }
+  }
+]

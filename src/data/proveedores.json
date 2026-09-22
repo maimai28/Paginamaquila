@@ -1,0 +1,224 @@
+[
+  {
+    "id": "polimeros-del-bravo",
+    "nombre": "Polímeros del Bravo, S.A. de C.V.",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "resinas-plasticos"
+    ],
+    "verificado": true,
+    "enPlataformaDesde": 2021,
+    "pedidosCompletados": 412,
+    "tiempoRespuesta": "Menos de 4 horas",
+    "certificaciones": [
+      "ISO 9001:2015",
+      "Distribuidor autorizado de resinas de ingeniería"
+    ],
+    "descripcion": "Distribuidor de resinas commodity y de ingeniería para moldeo por inyección. Almacén propio con inventario de más de 60 grados y entrega en planta dentro de la zona metropolitana."
+  },
+  {
+    "id": "resinas-medanos",
+    "nombre": "Resinas Médanos Industrial",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "resinas-plasticos"
+    ],
+    "verificado": true,
+    "enPlataformaDesde": 2022,
+    "pedidosCompletados": 268,
+    "tiempoRespuesta": "Menos de 8 horas",
+    "certificaciones": [
+      "ISO 9001:2015"
+    ],
+    "descripcion": "Especialistas en polietilenos, compuestos de PVC para cable y masterbatch. Atención a plantas de extrusión, soplado y fabricación de arneses."
+  },
+  {
+    "id": "plastinorte-samalayuca",
+    "nombre": "PlastiNorte Samalayuca",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "resinas-plasticos"
+    ],
+    "verificado": false,
+    "enPlataformaDesde": 2025,
+    "pedidosCompletados": 37,
+    "tiempoRespuesta": "1 a 2 días",
+    "certificaciones": [],
+    "descripcion": "Recicladora y comercializadora de plástico post-industrial: molido y pellet reprocesado de PP, HDPE y ABS para aplicaciones no críticas."
+  },
+  {
+    "id": "aceros-paso-grande",
+    "nombre": "Aceros y Alambres Paso Grande",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "metales-alambre"
+    ],
+    "verificado": true,
+    "enPlataformaDesde": 2020,
+    "pedidosCompletados": 590,
+    "tiempoRespuesta": "Menos de 4 horas",
+    "certificaciones": [
+      "ISO 9001:2015",
+      "Certificados de molino por lote"
+    ],
+    "descripcion": "Centro de servicio de acero: lámina, solera, tubo y alambre. Corte a medida y entregas diarias a parques industriales de la ciudad."
+  },
+  {
+    "id": "metales-cerro-bola",
+    "nombre": "Metales Cerro Bola",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "metales-alambre"
+    ],
+    "verificado": true,
+    "enPlataformaDesde": 2023,
+    "pedidosCompletados": 184,
+    "tiempoRespuesta": "Menos de 4 horas",
+    "certificaciones": [
+      "ISO 9001:2015",
+      "AS9100D (en proceso)"
+    ],
+    "descripcion": "Aluminio, inoxidable y latón para maquinado CNC y estampado. Barra, placa y lámina con trazabilidad completa de colada."
+  },
+  {
+    "id": "alambrera-tres-lomas",
+    "nombre": "Alambrera Tres Lomas",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "metales-alambre"
+    ],
+    "verificado": false,
+    "enPlataformaDesde": 2024,
+    "pedidosCompletados": 52,
+    "tiempoRespuesta": "2 a 3 días",
+    "certificaciones": [],
+    "descripcion": "Comercializadora de alambre de acero bajo carbono y alambre para resortes. Venta por rollo y por tonelada."
+  },
+  {
+    "id": "cobre-arenales",
+    "nombre": "Cobre Industrial Arenales",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "metales-alambre"
+    ],
+    "verificado": true,
+    "enPlataformaDesde": 2022,
+    "pedidosCompletados": 221,
+    "tiempoRespuesta": "Menos de 12 horas",
+    "certificaciones": [
+      "Producto con marcado UL (según referencia)"
+    ],
+    "descripcion": "Alambre magneto, cable para arneses y solera de cobre para la industria eléctrica y electrónica."
+  },
+  {
+    "id": "cartonajes-duna-blanca",
+    "nombre": "Cartonajes Duna Blanca",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "empaque-carton"
+    ],
+    "verificado": true,
+    "enPlataformaDesde": 2021,
+    "pedidosCompletados": 733,
+    "tiempoRespuesta": "Menos de 4 horas",
+    "certificaciones": [
+      "ISO 9001:2015",
+      "Pruebas ECT y Mullen en laboratorio propio"
+    ],
+    "descripcion": "Fabricante de cajas de cartón corrugado, esquineros y separadores a medida. Diseño estructural sin costo para pedidos recurrentes."
+  },
+  {
+    "id": "empaques-sol-del-norte",
+    "nombre": "Empaques Sol del Norte",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "empaque-carton"
+    ],
+    "verificado": true,
+    "enPlataformaDesde": 2023,
+    "pedidosCompletados": 306,
+    "tiempoRespuesta": "Menos de 8 horas",
+    "certificaciones": [
+      "Materiales ESD conforme a ANSI/ESD S541"
+    ],
+    "descripcion": "Película stretch, bolsas antiestáticas, burbuja y cintas. Inventario en la ciudad y surtido en 24 a 72 horas."
+  },
+  {
+    "id": "corrugados-valle-seco",
+    "nombre": "Corrugados Valle Seco",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "empaque-carton"
+    ],
+    "verificado": false,
+    "enPlataformaDesde": 2025,
+    "pedidosCompletados": 24,
+    "tiempoRespuesta": "1 a 2 días",
+    "certificaciones": [],
+    "descripcion": "Taller de conversión de cartón corrugado: cajas estándar, impresas a una tinta y cartón en rollo."
+  },
+  {
+    "id": "quimica-lomas-del-poniente",
+    "nombre": "Química Lomas del Poniente",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "quimicos-industriales"
+    ],
+    "verificado": true,
+    "enPlataformaDesde": 2020,
+    "pedidosCompletados": 455,
+    "tiempoRespuesta": "Menos de 4 horas",
+    "certificaciones": [
+      "ISO 9001:2015",
+      "Hojas de datos de seguridad (HDS) conforme a NOM-018-STPS"
+    ],
+    "descripcion": "Distribución de solventes, desengrasantes y fluidos de maquinado. Envasado en garrafa, tambo y contenedor IBC."
+  },
+  {
+    "id": "solventes-rio-seco",
+    "nombre": "Solventes y Aditivos Río Seco",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "quimicos-industriales"
+    ],
+    "verificado": true,
+    "enPlataformaDesde": 2022,
+    "pedidosCompletados": 197,
+    "tiempoRespuesta": "Menos de 12 horas",
+    "certificaciones": [
+      "Productos conformes a RoHS (según ficha técnica)"
+    ],
+    "descripcion": "Químicos para ensamble electrónico: fundentes, pastas para soldar, limpiadores de esténcil y thinners."
+  },
+  {
+    "id": "insumos-altavista",
+    "nombre": "Insumos Químicos Altavista",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "quimicos-industriales"
+    ],
+    "verificado": false,
+    "enPlataformaDesde": 2024,
+    "pedidosCompletados": 61,
+    "tiempoRespuesta": "2 a 3 días",
+    "certificaciones": [],
+    "descripcion": "Comercializadora de químicos de limpieza y básicos industriales a granel."
+  },
+  {
+    "id": "suministros-cumbres",
+    "nombre": "Suministros Integrales Cumbres",
+    "ciudad": "Ciudad Juárez, Chih.",
+    "categorias": [
+      "empaque-carton",
+      "resinas-plasticos"
+    ],
+    "verificado": true,
+    "enPlataformaDesde": 2023,
+    "pedidosCompletados": 142,
+    "tiempoRespuesta": "Menos de 8 horas",
+    "certificaciones": [
+      "ISO 9001:2015"
+    ],
+    "descripcion": "Empaque técnico para manufactura: charolas termoformadas, lámina PET, fleje y bolsa de polietileno."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "resinas-plasticos",
+    "nombre": "Resinas y plásticos",
+    "descripcion": "Pellet virgen y reciclado, compuestos, masterbatch y lámina para moldeo, extrusión y termoformado.",
+    "icono": "resina"
+  },
+  {
+    "id": "metales-alambre",
+    "nombre": "Metales y alambre",
+    "descripcion": "Acero, aluminio, cobre, inoxidable, alambre magneto y cable para arneses y estampado.",
+    "icono": "metal"
+  },
+  {
+    "id": "empaque-carton",
+    "nombre": "Empaque y cartón",
+    "descripcion": "Cajas corrugadas, esquineros, película stretch, bolsas antiestáticas y material de embalaje.",
+    "icono": "caja"
+  },
+  {
+    "id": "quimicos-industriales",
+    "nombre": "Químicos industriales",
+    "descripcion": "Solventes, desengrasantes, fundentes, pastas para soldar y aceites de corte.",
+    "icono": "quimico"
+  }
+]

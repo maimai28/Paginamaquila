@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Color principal: azul petróleo */
+  --color-brand-50: #eef7f8;
+  --color-brand-100: #d5ecef;
+  --color-brand-200: #aad8de;
+  --color-brand-300: #74bcc6;
+  --color-brand-400: #3f9aa8;
+  --color-brand-500: #237f8e;
+  --color-brand-600: #186676;
+  --color-brand-700: #145361;
+  --color-brand-800: #124452;
+  --color-brand-900: #0f3844;
+  --color-brand-950: #082430;
+
+  /* Acento: cobre */
+  --color-cobre-50: #fbf3ef;
+  --color-cobre-100: #f5e1d6;
+  --color-cobre-200: #ecc2ac;
+  --color-cobre-300: #e7a37f;
+  --color-cobre-500: #b8643f;
+  --color-cobre-600: #9c4f2e;
+  --color-cobre-700: #7d3f25;
+}
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply bg-slate-50 text-slate-800 antialiased; }
+  :focus-visible { @apply outline-2 outline-offset-2 outline-brand-500; }
+}
+
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2.5 text-sm font-semibold transition-colors disabled:cursor-not-allowed disabled:opacity-50;
+}
+
+@utility btn-primary {
+  @apply btn bg-brand-700 text-white hover:bg-brand-800;
+}
+
+@utility btn-secondary {
+  @apply btn border border-slate-300 bg-white text-slate-700 hover:border-brand-400 hover:text-brand-700;
+}
+
+@utility card {
+  @apply rounded-xl border border-slate-200 bg-white shadow-sm;
+}
+
+@utility input {
+  @apply w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-sm text-slate-800 placeholder:text-slate-400 focus:border-brand-500 focus:ring-2 focus:ring-brand-200 focus:outline-none;
+}
+
+@utility label {
+  @apply mb-1.5 block text-sm font-medium text-slate-700;
+}
+
+@utility chip {
+  @apply inline-flex items-center rounded-full px-2.5 py-1 text-xs font-medium;
+}
